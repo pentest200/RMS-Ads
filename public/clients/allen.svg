@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" fill="none">
+  <rect width="320" height="100" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(18, 14)">
+    <!-- Red Accent Arc / Circle -->
+    <path d="M 12 36 C 12 18 26 12 40 12 C 54 12 68 20 68 36 C 68 52 54 60 40 60 C 26 60 12 52 12 36 Z" fill="#E11D48"/>
+    <!-- Torch flame / White Emblem Inside -->
+    <path d="M 40 19 C 36 26 31 31 31 37 C 31 43 35 48 40 48 C 45 48 49 43 49 37 C 49 31 44 26 40 19 Z" fill="#FFFFFF"/>
+    <circle cx="40" cy="38" r="4" fill="#E11D48"/>
+    
+    <!-- Bold ALLEN Blue Typography -->
+    <text x="82" y="48" fill="#003580" font-family="'Arial Black', Impact, sans-serif" font-weight="900" font-size="44" letter-spacing="0.04em">ALLEN</text>
+    
+    <!-- Baseline Tagline -->
+    <text x="84" y="66" fill="#003580" font-family="'Arial', sans-serif" font-weight="800" font-size="11" letter-spacing="0.18em">CAREER INSTITUTE</text>
+    <rect x="84" y="52" width="195" height="2" fill="#E11D48"/>
+  </g>
+</svg>
+

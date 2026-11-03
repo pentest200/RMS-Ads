@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" fill="none">
+  <rect width="320" height="100" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(18, 14)">
+    <!-- Red Accent Arc -->
+    <path d="M 12 36 C 12 18 26 12 40 12 C 54 12 68 20 68 36 C 68 52 54 60 40 60 C 26 60 12 52 12 36 Z" fill="#E11D48"/>
+    <path d="M 40 19 C 36 26 31 31 31 37 C 31 43 35 48 40 48 C 45 48 49 43 49 37 C 49 31 44 26 40 19 Z" fill="#FFFFFF"/>
+    
+    <!-- Bold ALLEN Blue Typography -->
+    <text x="82" y="44" fill="#003580" font-family="'Arial Black', Impact, sans-serif" font-weight="900" font-size="38" letter-spacing="0.04em">ALLEN</text>
+    
+    <!-- DIGITAL Cyan Badge -->
+    <rect x="84" y="48" width="94" height="16" rx="4" fill="#0284C7"/>
+    <text x="93" y="60" fill="#FFFFFF" font-family="'Arial Black', sans-serif" font-weight="900" font-size="10.5" letter-spacing="0.18em">DIGITAL</text>
+    
+    <text x="186" y="60" fill="#64748B" font-family="'Arial', sans-serif" font-weight="700" font-size="9" letter-spacing="0.1em">LIVE LEARNING</text>
+  </g>
+</svg>
+

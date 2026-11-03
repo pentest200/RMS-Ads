@@ -1,0 +1,33 @@
+/* Add these rules to app/globals.css */
+.brand-tile-visual {
+  position: relative;
+}
+
+.brand-tile-visual .brand-logo-image {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 88%;
+  max-width: 174px;
+  height: 88%;
+  max-height: 112px;
+  display: block;
+  object-fit: contain;
+  object-position: center;
+  opacity: 0;
+  transition: opacity 0.22s ease;
+}
+
+.brand-tile-visual .brand-logo-image.is-loaded {
+  opacity: 1;
+}
+
+.brand-logo-unavailable strong {
+  display: block;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand-tile-visual .brand-logo-image {
+    transition: none;
+  }
+}

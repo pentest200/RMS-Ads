@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" fill="none">
+  <rect width="320" height="100" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(18, 16)">
+    <!-- Iconic PW Black Circle Emblem with White PW Letters -->
+    <circle cx="34" cy="34" r="28" fill="#18181B"/>
+    <text x="34" y="44" fill="#FFFFFF" text-anchor="middle" font-family="'Impact', 'Arial Black', sans-serif" font-weight="900" font-size="32" letter-spacing="0.02em">PW</text>
+    
+    <!-- PHYSICS WALLAH text -->
+    <text x="74" y="36" fill="#18181B" font-family="'Arial Black', sans-serif" font-weight="900" font-size="22" letter-spacing="0.04em">PHYSICS WALLAH</text>
+    
+    <!-- Subtitle badge -->
+    <rect x="74" y="43" width="130" height="15" rx="3" fill="#E11D48"/>
+    <text x="80" y="54" fill="#FFFFFF" font-family="'Arial', sans-serif" font-weight="800" font-size="9" letter-spacing="0.16em">ALAKH PANDEY</text>
+  </g>
+</svg>
+
